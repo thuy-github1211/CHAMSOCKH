@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6278cfb46c41bd713a3c729c"
+  },
+  "makh": "kh02",
+  "tenkh": "Khách Hàng B",
+  "phai": "Nữ",
+  "sdt": "381293031",
+  "diachi": "TPHCM",
+  "nhanvien": [
+    {
+      "manv": "nv01",
+      "tennv": "Phan Văn A",
+      "phai": "Nữ",
+      "SDT": "0123482178",
+      "diachi": "tphcm",
+      "thoigian": {
+        "$date": {
+          "$numberLong": "1652086042509"
+        }
+      },
+      "dichvu": {
+        "madv": "dv03",
+        "tendv": "peel da",
+        "giadv": "6000000"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6278d5f1fb58f279930a92bc"
+  },
+  "makh": "kh03",
+  "tenkh": "Khách Hàng C",
+  "phai": "Nữ",
+  "sdt": "321938912",
+  "diachi": "TPHCM",
+  "nhanvien": [
+    {
+      "manv": "nv01",
+      "tennv": "Phan Văn A",
+      "phai": "Nữ",
+      "SDT": "0123482178",
+      "diachi": "tphcm",
+      "thoigian": {
+        "$date": {
+          "$numberLong": "1652086005875"
+        }
+      },
+      "dichvu": {
+        "madv": "dv02",
+        "tendv": "chăm sóc da",
+        "giadv": "2000000"
+      }
+    },
+    {
+      "manv": "nv02",
+      "tennv": "Nguyễn Văn B",
+      "phai": "Nam",
+      "SDT": "1129389217",
+      "diachi": "tphcm",
+      "thoigian": {
+        "$date": {
+          "$numberLong": "1652092590353"
+        }
+      },
+      "dichvu": {
+        "madv": "dv03",
+        "tendv": "peel da",
+        "giadv": "6000000"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6278dde66105bef7e5dc1c92"
+  },
+  "makh": "kh01",
+  "tenkh": "Khách Hàng A",
+  "phai": "Nam",
+  "sdt": "1231242135",
+  "diachi": "TPHCM",
+  "nhanvien": [
+    {
+      "manv": "nv02",
+      "tennv": "Nguyễn Văn B",
+      "phai": "Nam",
+      "SDT": "1129389217",
+      "diachi": "tphcm",
+      "thoigian": {
+        "$date": {
+          "$numberLong": "1652088236798"
+        }
+      },
+      "dichvu": {
+        "madv": "dv02",
+        "tendv": "chăm sóc da",
+        "giadv": "2000000"
+      }
+    }
+  ]
+}]

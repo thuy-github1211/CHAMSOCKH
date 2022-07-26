@@ -1,0 +1,360 @@
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\Admin-s\source\repos\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\Admin-s\OneDrive\Máy tính\doanabc\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\doanabc\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\doanabc\doanabc\obj\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\snappy32.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\snappy64.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libsnappy64.so
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.so
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.dylib
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\mongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.exe.config
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.pdb
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\DnsClient.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\SharpCompress.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Buffers.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Memory.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\DnsClient.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Buffers.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Memory.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.exe
+C:\Users\tuanp\OneDrive\Máy tính\13_QuanLyChamSocKhachHang\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.pdb
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\snappy32.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\snappy64.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libsnappy64.so
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.so
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libsnappy64.dylib
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\libzstd.dylib
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\mongocrypt.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.exe.config
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.exe
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\doanabc.pdb
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\DnsClient.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Bson.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\SharpCompress.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Buffers.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Memory.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.AccessControl.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\DnsClient.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\Microsoft.Win32.Registry.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Bson.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\MongoDB.Driver.Core.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Buffers.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Memory.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Numerics.Vectors.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.AccessControl.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Security.Principal.Windows.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.AssemblyReference.cache
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.Form1.resources
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.Properties.Resources.resources
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.GenerateResource.cache
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.CoreCompileInputs.cache
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.csproj.CopyComplete
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.exe
+E:\13_QuanLyChamSocKhachHang\doanabc\doanabc\obj\Debug\doanabc.pdb
